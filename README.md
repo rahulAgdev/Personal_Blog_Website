@@ -14,4 +14,5 @@ Compose post along with the name of the post(like day or event) and description 
 
 ![compose](https://user-images.githubusercontent.com/97039362/193017544-35551c81-f794-4182-a1ed-c325c2a33a8a.png)
 
---- This application is purely backend based and all the functionalities except the UI has been designed using backend. Credits to Angela Yu for providing the frontend.
+--- 
+*Note:* This application is purely backend based and all the functionalities except the UI has been designed using backend. Credits to Angela Yu for providing the frontend.
