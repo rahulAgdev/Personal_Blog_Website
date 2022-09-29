@@ -74,7 +74,7 @@ app.post("/compose", (req, res) => {
     name: req.body.name,
     post: req.body.post
   })
-  defaultPosts.push(itemN);
+  // defaultPosts.push(itemN);
   itemN.save();
   res.redirect("/");
 
